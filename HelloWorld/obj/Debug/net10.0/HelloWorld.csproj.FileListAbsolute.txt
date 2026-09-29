@@ -1,0 +1,14 @@
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll

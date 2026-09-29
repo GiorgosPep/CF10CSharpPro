@@ -1,0 +1,14 @@
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\bin\Debug\net10.0\DataTypes.exe
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\bin\Debug\net10.0\DataTypes.deps.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\bin\Debug\net10.0\DataTypes.runtimeconfig.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\bin\Debug\net10.0\DataTypes.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\bin\Debug\net10.0\DataTypes.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\obj\Debug\net10.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\obj\Debug\net10.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\obj\Debug\net10.0\DataTypes.AssemblyInfo.cs
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\obj\Debug\net10.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\obj\Debug\net10.0\DataTypes.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\obj\Debug\net10.0\refint\DataTypes.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\obj\Debug\net10.0\DataTypes.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\obj\Debug\net10.0\DataTypes.genruntimeconfig.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\DataTypes\obj\Debug\net10.0\ref\DataTypes.dll

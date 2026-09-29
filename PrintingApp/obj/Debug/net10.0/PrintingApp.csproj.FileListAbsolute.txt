@@ -1,0 +1,14 @@
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\bin\Debug\net10.0\PrintingApp.exe
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\bin\Debug\net10.0\PrintingApp.deps.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\bin\Debug\net10.0\PrintingApp.runtimeconfig.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\bin\Debug\net10.0\PrintingApp.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\bin\Debug\net10.0\PrintingApp.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\obj\Debug\net10.0\PrintingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\obj\Debug\net10.0\PrintingApp.AssemblyInfoInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\obj\Debug\net10.0\PrintingApp.AssemblyInfo.cs
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\obj\Debug\net10.0\PrintingApp.csproj.CoreCompileInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\obj\Debug\net10.0\PrintingApp.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\obj\Debug\net10.0\refint\PrintingApp.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\obj\Debug\net10.0\PrintingApp.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\obj\Debug\net10.0\PrintingApp.genruntimeconfig.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PrintingApp\obj\Debug\net10.0\ref\PrintingApp.dll

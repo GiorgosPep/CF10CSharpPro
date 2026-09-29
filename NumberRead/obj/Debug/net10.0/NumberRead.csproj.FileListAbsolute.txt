@@ -1,0 +1,14 @@
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\bin\Debug\net10.0\NumberRead.exe
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\bin\Debug\net10.0\NumberRead.deps.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\bin\Debug\net10.0\NumberRead.runtimeconfig.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\bin\Debug\net10.0\NumberRead.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\bin\Debug\net10.0\NumberRead.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\obj\Debug\net10.0\NumberRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\obj\Debug\net10.0\NumberRead.AssemblyInfoInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\obj\Debug\net10.0\NumberRead.AssemblyInfo.cs
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\obj\Debug\net10.0\NumberRead.csproj.CoreCompileInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\obj\Debug\net10.0\NumberRead.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\obj\Debug\net10.0\refint\NumberRead.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\obj\Debug\net10.0\NumberRead.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\obj\Debug\net10.0\NumberRead.genruntimeconfig.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\NumberRead\obj\Debug\net10.0\ref\NumberRead.dll

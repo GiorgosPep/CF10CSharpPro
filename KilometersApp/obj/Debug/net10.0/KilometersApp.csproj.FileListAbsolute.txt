@@ -1,0 +1,14 @@
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\bin\Debug\net10.0\KilometersApp.exe
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\bin\Debug\net10.0\KilometersApp.deps.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\bin\Debug\net10.0\KilometersApp.runtimeconfig.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\bin\Debug\net10.0\KilometersApp.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\bin\Debug\net10.0\KilometersApp.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\obj\Debug\net10.0\KilometersApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\obj\Debug\net10.0\KilometersApp.AssemblyInfoInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\obj\Debug\net10.0\KilometersApp.AssemblyInfo.cs
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\obj\Debug\net10.0\KilometersApp.csproj.CoreCompileInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\obj\Debug\net10.0\KilometersApp.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\obj\Debug\net10.0\refint\KilometersApp.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\obj\Debug\net10.0\KilometersApp.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\obj\Debug\net10.0\KilometersApp.genruntimeconfig.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\KilometersApp\obj\Debug\net10.0\ref\KilometersApp.dll
