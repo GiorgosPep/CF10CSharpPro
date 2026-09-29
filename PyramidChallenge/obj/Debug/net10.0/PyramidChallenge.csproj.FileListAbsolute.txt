@@ -1,0 +1,15 @@
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\bin\Debug\net10.0\PyramidChallenge.exe
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\bin\Debug\net10.0\PyramidChallenge.deps.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\bin\Debug\net10.0\PyramidChallenge.runtimeconfig.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\bin\Debug\net10.0\PyramidChallenge.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\bin\Debug\net10.0\PyramidChallenge.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\obj\Debug\net10.0\PyramidChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\obj\Debug\net10.0\PyramidChallenge.AssemblyInfoInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\obj\Debug\net10.0\PyramidChallenge.AssemblyInfo.cs
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\obj\Debug\net10.0\PyramidChallenge.csproj.CoreCompileInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\obj\Debug\net10.0\PyramidChallenge.sourcelink.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\obj\Debug\net10.0\PyramidChallenge.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\obj\Debug\net10.0\refint\PyramidChallenge.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\obj\Debug\net10.0\PyramidChallenge.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\obj\Debug\net10.0\PyramidChallenge.genruntimeconfig.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\PyramidChallenge\obj\Debug\net10.0\ref\PyramidChallenge.dll

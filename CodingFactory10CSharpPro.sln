@@ -28,6 +28,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileApp", "DoWhileApp\Do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitiesForApp", "CitiesForApp\CitiesForApp.csproj", "{CF43A942-DE41-40D6-B11F-7BF85BB101A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerAPp", "PowerAPp\PowerAPp.csproj", "{D6EBBEC2-F1B0-44A4-9B09-E8A03B1455A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyramidChallenge", "PyramidChallenge\PyramidChallenge.csproj", "{7FA664D7-0912-4B27-8731-A2B4799B333B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +94,13 @@ Global
 		{CF43A942-DE41-40D6-B11F-7BF85BB101A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF43A942-DE41-40D6-B11F-7BF85BB101A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF43A942-DE41-40D6-B11F-7BF85BB101A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6EBBEC2-F1B0-44A4-9B09-E8A03B1455A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EBBEC2-F1B0-44A4-9B09-E8A03B1455A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EBBEC2-F1B0-44A4-9B09-E8A03B1455A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EBBEC2-F1B0-44A4-9B09-E8A03B1455A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA664D7-0912-4B27-8731-A2B4799B333B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA664D7-0912-4B27-8731-A2B4799B333B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA664D7-0912-4B27-8731-A2B4799B333B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA664D7-0912-4B27-8731-A2B4799B333B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
