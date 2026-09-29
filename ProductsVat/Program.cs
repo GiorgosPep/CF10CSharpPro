@@ -26,7 +26,7 @@ class Program
         
         // Print results
         Console.WriteLine($"Product Price: {price}");
-        Console.WriteLine($"Product Price after VAT: {priceAfterVAT}");
+        Console.WriteLine($"Total Price: {priceAfterVAT}");
         
         
     }
