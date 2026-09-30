@@ -32,6 +32,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerAPp", "PowerAPp\PowerA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyramidChallenge", "PyramidChallenge\PyramidChallenge.csproj", "{7FA664D7-0912-4B27-8731-A2B4799B333B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapApp", "SwapApp\SwapApp.csproj", "{042E8B26-F070-4240-BA84-FA5DCC8F0FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciIterative", "FibonacciIterative\FibonacciIterative.csproj", "{7E67DACC-9559-46F4-B3C6-B2F594487EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysApp", "ArraysApp\ArraysApp.csproj", "{C2F13FDD-6203-4A98-811A-C60DCE4231EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +108,17 @@ Global
 		{7FA664D7-0912-4B27-8731-A2B4799B333B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FA664D7-0912-4B27-8731-A2B4799B333B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FA664D7-0912-4B27-8731-A2B4799B333B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042E8B26-F070-4240-BA84-FA5DCC8F0FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042E8B26-F070-4240-BA84-FA5DCC8F0FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042E8B26-F070-4240-BA84-FA5DCC8F0FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042E8B26-F070-4240-BA84-FA5DCC8F0FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E67DACC-9559-46F4-B3C6-B2F594487EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E67DACC-9559-46F4-B3C6-B2F594487EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E67DACC-9559-46F4-B3C6-B2F594487EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E67DACC-9559-46F4-B3C6-B2F594487EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F13FDD-6203-4A98-811A-C60DCE4231EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F13FDD-6203-4A98-811A-C60DCE4231EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F13FDD-6203-4A98-811A-C60DCE4231EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F13FDD-6203-4A98-811A-C60DCE4231EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PositivesCount")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6439182cbafea4c23a78b6f0002551056b25e170")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0ea6542a5162d94ed65d7533ace397c5732c5fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PositivesCount")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PositivesCount")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

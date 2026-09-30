@@ -1,0 +1,15 @@
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\bin\Debug\net10.0\FibonacciIterative.exe
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\bin\Debug\net10.0\FibonacciIterative.deps.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\bin\Debug\net10.0\FibonacciIterative.runtimeconfig.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\bin\Debug\net10.0\FibonacciIterative.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\bin\Debug\net10.0\FibonacciIterative.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\obj\Debug\net10.0\FibonacciIterative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\obj\Debug\net10.0\FibonacciIterative.AssemblyInfoInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\obj\Debug\net10.0\FibonacciIterative.AssemblyInfo.cs
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\obj\Debug\net10.0\FibonacciIterative.csproj.CoreCompileInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\obj\Debug\net10.0\FibonacciIterative.sourcelink.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\obj\Debug\net10.0\FibonacciIterative.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\obj\Debug\net10.0\refint\FibonacciIterative.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\obj\Debug\net10.0\FibonacciIterative.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\obj\Debug\net10.0\FibonacciIterative.genruntimeconfig.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\FibonacciIterative\obj\Debug\net10.0\ref\FibonacciIterative.dll

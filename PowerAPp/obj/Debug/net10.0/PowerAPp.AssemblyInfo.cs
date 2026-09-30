@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PowerAPp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54d6df631d319e87191359c43f6c938211244e87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0ea6542a5162d94ed65d7533ace397c5732c5fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PowerAPp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PowerAPp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

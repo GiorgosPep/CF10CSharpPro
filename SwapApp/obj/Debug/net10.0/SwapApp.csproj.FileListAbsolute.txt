@@ -1,0 +1,15 @@
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\bin\Debug\net10.0\SwapApp.exe
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\bin\Debug\net10.0\SwapApp.deps.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\bin\Debug\net10.0\SwapApp.runtimeconfig.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\bin\Debug\net10.0\SwapApp.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\bin\Debug\net10.0\SwapApp.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\obj\Debug\net10.0\SwapApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\obj\Debug\net10.0\SwapApp.AssemblyInfoInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\obj\Debug\net10.0\SwapApp.AssemblyInfo.cs
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\obj\Debug\net10.0\SwapApp.csproj.CoreCompileInputs.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\obj\Debug\net10.0\SwapApp.sourcelink.json
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\obj\Debug\net10.0\SwapApp.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\obj\Debug\net10.0\refint\SwapApp.dll
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\obj\Debug\net10.0\SwapApp.pdb
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\obj\Debug\net10.0\SwapApp.genruntimeconfig.cache
+C:\Users\gpeppas\RiderProjects\CodingFactory10CSharpPro\SwapApp\obj\Debug\net10.0\ref\SwapApp.dll
